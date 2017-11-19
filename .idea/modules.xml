@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\MyApps\aws-mobile-android-notes-tutorial\app\app.iml" filepath="E:\MyApps\aws-mobile-android-notes-tutorial\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/aws-mobile-android-notes-tutorial.iml" filepath="$PROJECT_DIR$/aws-mobile-android-notes-tutorial.iml" />
+      <module fileurl="file://E:\MyApps\aws-mobile-android-notes-tutorial\aws-mobile-android-notes-tutorial.iml" filepath="E:\MyApps\aws-mobile-android-notes-tutorial\aws-mobile-android-notes-tutorial.iml" />
     </modules>
   </component>
 </project>

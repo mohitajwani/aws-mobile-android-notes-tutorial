@@ -33,7 +33,7 @@
             android:layout_marginLeft="8dp"
             android:text="9c39a5c2-14d8-4a7d-96fa-f19da5f958da"
             android:textAppearance="@style/TextAppearance.AppCompat.Small"
-            android:textColor="@android:color/darker_gray"
+            android:textColor="#aaaaaa"
             android:textSize="12sp"
             app:layout_constraintLeft_toLeftOf="parent"
             android:layout_marginTop="8dp"
